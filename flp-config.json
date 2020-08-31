@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "opensap.myapp.MyApp",
+        "description": "Aplicativos Web com SAPUI5 - OpenSAP",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/webapp",
+        "appUrl": "#MyApp-Display",
+        "navigationComponentName": "opensap.myapp",
+        "intentSemanticObject": "MyApp",
+        "intentAction": "Display",
+        "html5ApplicationName": "myapp1",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "110b5ee8-720c-4250-ba91-aebdebddd36a"
+        ],
+        "contentPackages": [
+            "644f160b-ce00-4f0c-892a-ee830f5a0ce9"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "MyApp 01",
+        "subtitle": "Curso Open SAP",
+        "searchKeywords": "MyApp 01,Curso Open SAP",
+        "displayIconUrl": "sap-icon://bookmark",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
